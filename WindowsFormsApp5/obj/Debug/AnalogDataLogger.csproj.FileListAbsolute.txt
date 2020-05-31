@@ -1,0 +1,9 @@
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\AnalogDataLogger.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Form1.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\AnalogDataLogger.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\AnalogDataLogger.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AnalogDataLogger.exe.config
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AnalogDataLogger.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\AnalogDataLogger.pdb
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\AnalogDataLogger.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\AnalogDataLogger.pdb
